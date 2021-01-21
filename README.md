@@ -1,5 +1,7 @@
 # REACT SIMPLE BLOGS
 
+Documentation full and live sourcecode : https://www.hockeycomputindo.com/2021/01/create-react-for-blogging-ngeblog.html
+
 Create a modern blogging platform with react
 
 ![react blog](https://a.fsdn.com/con/app/proj/reactblogger/screenshots/reactblog2.png/max/max/1)
@@ -16,7 +18,7 @@ title = Title
 desc = Description
 content = Article
 
-For demo [click here](https://reactblogger.stackblitz.io/)
+For demo [click here](https://www.hockeycomputindo.com/2021/01/create-react-for-blogging-ngeblog.html)
 
 
 ## Available Scripts
